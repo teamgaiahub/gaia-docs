@@ -32,4 +32,9 @@ Click on the green floating button to add a new node, and search for "LLM Chain"
 
 <figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption><p>Add LLM Chain node</p></figcaption></figure>
 
+
+
+### 6. Connect the dots
+
 <figure><img src=".gitbook/assets/ScreenRecording2024-07-20at12.45.44-ezgif.com-video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
+
