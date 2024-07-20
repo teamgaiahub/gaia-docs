@@ -1,3 +1,7 @@
 # Table of contents
 
-* [gaiahub docs](README.md)
+## GETTING STARTED
+
+* [Introduction](README.md)
+* [Quickstart](getting-started/quickstart.md)
+* [Adding credentials](getting-started/adding-credentials.md)
