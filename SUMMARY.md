@@ -5,3 +5,7 @@
 * [Introduction](README.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Adding credentials](getting-started/adding-credentials.md)
+
+***
+
+* [Creating a simple LLM app](creating-a-simple-llm-app.md)
