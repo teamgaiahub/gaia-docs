@@ -6,6 +6,7 @@
 * [Quickstart](getting-started/quickstart.md)
 * [Adding credentials](getting-started/adding-credentials.md)
 * [Variables](getting-started/variables.md)
+* [Add GaiaHub on your website](getting-started/add-gaiahub-on-your-website.md)
 
 ***
 
